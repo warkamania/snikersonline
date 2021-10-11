@@ -108,7 +108,7 @@ function App() {
       opened = {cartOpened} 
       /> 
       <Header onClickCart={()=> setCartOpened(true)} />
-       <Route path="https://warkamania.github.io/snikersonline/" exact>
+       <Route path="/" exact>
         <Home
          items={items}
          cartItems={cartItems}
@@ -122,10 +122,10 @@ function App() {
          
         />
        </Route>
-       <Route path="https://warkamania.github.io/snikersonline/favorites" exact>
+       <Route path="/favorites" >
          <Favorites  />
        </Route>
-       <Route path="https://warkamania.github.io/snikersonline/orders" exact>
+       <Route path="/orders" >
          <Orders/>
        </Route>
       </div>
