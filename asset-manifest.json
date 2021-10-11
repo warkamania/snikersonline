@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/snikersonline/static/css/main.4e1e0b4d.chunk.css",
-    "main.js": "/snikersonline/static/js/main.60355048.chunk.js",
-    "main.js.map": "/snikersonline/static/js/main.60355048.chunk.js.map",
+    "main.js": "/snikersonline/static/js/main.f451db14.chunk.js",
+    "main.js.map": "/snikersonline/static/js/main.f451db14.chunk.js.map",
     "runtime-main.js": "/snikersonline/static/js/runtime-main.bdd4bb4f.js",
     "runtime-main.js.map": "/snikersonline/static/js/runtime-main.bdd4bb4f.js.map",
     "static/css/2.1cdcfe91.chunk.css": "/snikersonline/static/css/2.1cdcfe91.chunk.css",
-    "static/js/2.f0fe3113.chunk.js": "/snikersonline/static/js/2.f0fe3113.chunk.js",
-    "static/js/2.f0fe3113.chunk.js.map": "/snikersonline/static/js/2.f0fe3113.chunk.js.map",
+    "static/js/2.67bdf70b.chunk.js": "/snikersonline/static/js/2.67bdf70b.chunk.js",
+    "static/js/2.67bdf70b.chunk.js.map": "/snikersonline/static/js/2.67bdf70b.chunk.js.map",
     "index.html": "/snikersonline/index.html",
     "static/css/2.1cdcfe91.chunk.css.map": "/snikersonline/static/css/2.1cdcfe91.chunk.css.map",
     "static/css/main.4e1e0b4d.chunk.css.map": "/snikersonline/static/css/main.4e1e0b4d.chunk.css.map",
-    "static/js/2.f0fe3113.chunk.js.LICENSE.txt": "/snikersonline/static/js/2.f0fe3113.chunk.js.LICENSE.txt"
+    "static/js/2.67bdf70b.chunk.js.LICENSE.txt": "/snikersonline/static/js/2.67bdf70b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdd4bb4f.js",
     "static/css/2.1cdcfe91.chunk.css",
-    "static/js/2.f0fe3113.chunk.js",
+    "static/js/2.67bdf70b.chunk.js",
     "static/css/main.4e1e0b4d.chunk.css",
-    "static/js/main.60355048.chunk.js"
+    "static/js/main.f451db14.chunk.js"
   ]
 }
